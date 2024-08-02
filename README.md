@@ -19,7 +19,7 @@ To install spooni_job_blips:
 - At the end
   - Restart the server
 
-If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
+If you have any problems, you can comment in the [RSG](https://discord.com/channels/914413479157448744/1268992176751247363).
 
 ## 2. Usage
 Go to a configured blip and interact with the prompt. The color of the blip then changes.
