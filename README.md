@@ -61,3 +61,4 @@ Config.Blips = {
 ```
 
 [Credits To Spooni](https://github.com/Spooni-Development/spooni_job_blips)
+[Converted By AMPFW](https://discord.gg/MfPvSPZnkb)
