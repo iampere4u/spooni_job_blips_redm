@@ -1,12 +1,11 @@
 # 📍 Job Blips
-Documentation relating to the [spooni_job_blips](https://github.com/Spooni-Development/spooni_job_blips).
 
 ## 1. Installation
-spooni_job_blips works only with VORP. 
+spooni_job_blips works only with RSG can find VORP [here](https://github.com/Spooni-Development/spooni_job_blips). 
 
 To install spooni_job_blips:
 - Download the resource
-  - On [Github](https://github.com/Spooni-Development/spooni_job_blips)
+  - On [Github](https://github.com/iampere4u/spooni_job_blips_rsg)
 - Drag and drop the resource into your resources folder
   - `spooni_job_blips`
 - Add this ensure in your server.cfg
