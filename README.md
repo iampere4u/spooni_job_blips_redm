@@ -26,7 +26,7 @@ Go to a configured blip and interact with the prompt. The color of the blip then
 
 ## 3. For developers
 
-:::details Config.lua
+Config.lua
 ```lua
 Config = {}
 
@@ -59,5 +59,5 @@ Config.Blips = {
     },
 }
 ```
-:::
+
 [Credits To Spooni](https://github.com/Spooni-Development/spooni_job_blips)
