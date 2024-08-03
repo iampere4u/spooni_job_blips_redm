@@ -7,11 +7,11 @@ author 'Spooni'
 description 'Jobblips Script'
 
 server_scripts {
-	'server/*.lua',
+	'server.lua',
 }
 
 client_scripts {
-	'client/*.lua',
+	'client.lua',
 }
 
 shared_scripts {
